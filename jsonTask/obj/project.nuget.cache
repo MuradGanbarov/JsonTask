@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VpHCcd4BEsHkKU7ZkMoPi0nZ65pCrx5uOeZEDC2BkIfwf/eoE9fKx3O/boTZDjwJq5q6Q+XFr8r39CRhhybdFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Murad\\Desktop\\Task_Interface_Static\\jsonTask\\jsonTask\\jsonTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murad\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Murad\\.nuget\\packages\\nuglify\\1.21.0\\nuglify.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
